@@ -51,6 +51,8 @@
 
 8. **Branch.** Make a new branch, and commit some changes on it. Swap back to original branch
 
+This is the change I will make on the branch
+
 * `git branch <branchname>`
 * then: `git checkout <branchname>`
 * Or: `git checkout -b <branchname>` (does both at same time)
