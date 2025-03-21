@@ -24,6 +24,8 @@
 * For example, add a new line to the README file, or add a new text file
 * Use `git diff` (or the source controll tab) to see your changes
 
+* This is the change I will be making 
+
 4. **Stage and commit** your changes
 
 * `git add <...>`
